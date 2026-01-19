@@ -16,6 +16,12 @@ The project investigates the bulk thermodynamics of **$In_{x}Ga_{1-x}N$** alloys
 * Identification of **Order-Disorder transitions** via Heat Capacity ($C_v$) peaks.
 * Microscopic analysis of atomic ordering using **Warren-Cowley Short-Range Order (SRO)** parameters.
 
+## 💻 Computational Resources
+The Monte Carlo simulations and extensive DFT data processing were performed on the **Metropolis HPC Cluster** of the **University of Crete** (Department of Physics).
+* **Cluster Specs:** Utilized standard compute nodes for serial MC annealing jobs.
+* **Performance:** High-throughput calculations enabled the construction of high-resolution phase diagrams and precise heat capacity convergence.
+
+
 ## 🛠️ Methodology & Tools
 The computational approach combines Density Functional Theory (DFT) data with statistical mechanics methods:
 * **Cluster Expansion (CE):** Modeled using the **[ICET](https://icet.materialsmodeling.org/)** package.
